@@ -8,10 +8,10 @@ Home Credit strives to broaden financial inclusion for the unbanked population b
 While Home Credit is currently using various statistical and machine learning methods to make these predictions, we take the challenge to help them unlock the full potential of their data. Doing so will ensure that clients capable of repayment are not rejected and that loans are given with a principal, maturity, and repayment calendar that will empower their clients to be successful.
 
 
-Project Responsibles:
+### Project Responsibles:
 
--Julian Alejandro Pinzon Torres.
+# -Julian Alejandro Pinzon Torres.
 
--Daniel Alejandro Chaves Bustos.
+# -Daniel Alejandro Chaves Bustos.
 
--Fabian Esteban Perilla Lugo.
+# -Fabian Esteban Perilla Lugo.
