@@ -10,6 +10,8 @@ While Home Credit is currently using various statistical and machine learning me
 
 Project Responsibles:
 
-Julian Alejandro Pinzon Torres.
-Daniel Alejandro Chaves Bustos.
-Fabian Esteban Perilla Lugo.
+-Julian Alejandro Pinzon Torres.
+
+-Daniel Alejandro Chaves Bustos.
+
+-Fabian Esteban Perilla Lugo.
